@@ -1,0 +1,5 @@
+﻿  SimpleBankManagement.cpp
+c:\users\jorge\source\repos\simplebankmanagement\simplebankmanagement\banklogic.h(143): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jorge\source\repos\simplebankmanagement\simplebankmanagement\banklogic.h(144): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jorge\source\repos\simplebankmanagement\simplebankmanagement\banklogic.h(145): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SimpleBankManagement.vcxproj -> C:\Users\Jorge\source\repos\SimpleBankManagement\Debug\SimpleBankManagement.exe

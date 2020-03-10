@@ -1,0 +1,15 @@
+Name: mr. gheylord gheylordao
+ID: 123123
+Date of birth: 21/11/2000
+Phone number: 4000000
+Country: portugal
+City: vila
+Street: tonhice
+Zip code: 500455
+Account type: Savings
+Balance: 189000.000000
+Account creation date: 5/3/2020
+#
+2020/3/7: successful deposit of 1000.000000
+2020/3/9: successful deposit of 8000.000000
+2020/3/9: successful withdrawal of 21000.000000

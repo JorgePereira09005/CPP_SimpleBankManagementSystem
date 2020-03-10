@@ -1,0 +1,12 @@
+Name: poopz
+ID: 6969
+Date of birth: 29/2/2000
+Phone number: 420420
+Country: poooo
+City: ffff
+Street: aaaa
+Zip code: 321
+Account type: Fixed 1 Year
+Balance: 0
+Account creation date: 9/3/2020
+#

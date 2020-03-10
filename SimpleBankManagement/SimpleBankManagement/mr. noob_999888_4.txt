@@ -1,0 +1,15 @@
+Name: mr. noob
+ID: 999888
+Date of birth: 2/11/2000
+Phone number: 1
+Country: 2
+City: 3
+Street: 4
+Zip code: 5
+Account type: Fixed 2 Years
+Balance: 9.000000
+Account creation date: 8/3/2020
+#
+2020/3/8: successful deposit of 999.000000
+2020/3/8: successful deposit of 1000.000000
+2020/3/8: successful withdrawal of 1990.000000
